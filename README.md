@@ -1,4 +1,4 @@
-## <img width = 20 height=20  src="g1.gif" /> MORSE CODE TRANSLATOR USING PYTHON
+## <img width = 40 height=40  src="g1.gif" /> MORSE CODE TRANSLATOR USING PYTHON
 <p align="center">
   <img width = 1000  src="morse.jpg" /><br>
 </p>
